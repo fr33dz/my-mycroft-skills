@@ -1,0 +1,7 @@
+{
+  "utterance": "sodexo place",
+  "intent_type": "SodexoPlaceIntent",
+  "intent": {
+    "SodexoPlaceSkill": "sodexo menu"
+  }
+}
